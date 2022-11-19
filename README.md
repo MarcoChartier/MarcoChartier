@@ -22,3 +22,11 @@ I know these language
 - Markdown
 - Python
 - SQL
+
+```mermaid 
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
