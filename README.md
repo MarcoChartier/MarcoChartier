@@ -7,18 +7,11 @@
   </a>
 </div>
 
-### Hi, I'm Marco 👋
+### Salut, je m'appel Marco 👋
 
-I'm an operations and Logistics Engineering who specialise in ERP implementation and digital transformation projet.
-Currently Application Specialist for Microsoft Dynamics 365 Business Central.
-Expertise in 
-
-- Jet repport
-- NaviPayroll
-- SharePoint
-
-I know these language 
-
-- Markdown
-- Python
-- SQL
+- 🔭 je travail présentement sur un projet d'implémentation Microsoft Dynamis 365 Business central
+- 🌱 j'apprend présentement Python, Jupyter, mermaid
+- 👯 Je cherche à collaborer sur des projets de documentation
+- 💬 Vous pouvez me poser des questions sur l'analyse d'affaire
+- 📫 Pour me joindre: marco.chartier.1@ens.etsmtl.ca
+- 😎 Mon blog: marcochartier.github.io
