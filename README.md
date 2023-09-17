@@ -10,7 +10,7 @@
 ### Salut, je m'appel Marco 👋
 
 - 🔭 je travail présentement sur un projet d'implémentation Microsoft Dynamis 365 Business central
-- 🌱 j'apprend présentement Python, Jupyter, mermaid
+- 🌱 j'apprend présentement Python, Jupyter, mermaid, ledger
 - 👯 Je cherche à collaborer sur des projets de documentation
 - 💬 Vous pouvez me poser des questions sur l'analyse d'affaire
 - 📫 Pour me joindre: marco.chartier.1@ens.etsmtl.ca
